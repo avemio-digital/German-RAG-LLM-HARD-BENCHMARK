@@ -10,7 +10,7 @@ Ensure the following dependencies are installed before running the scripts:
 
 - `openai` Python package
 
-`pip install openai`
+``` pip install openai``` 
 
 ## Steps to Evaluate a Model
 
