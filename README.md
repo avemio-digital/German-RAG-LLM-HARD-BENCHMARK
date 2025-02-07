@@ -1,4 +1,4 @@
-# GRAG-LLM-HARD-BENCHMARK
+# German-RAG-LLM-HARD-BENCHMARK
 
 ## Overview
 
@@ -16,7 +16,7 @@ Ensure the following dependencies are installed before running the scripts:
 
 ### 1. Download Evaluation Dataset
 
-First, download the evaluation dataset from Hugging Face using the `python download_test_sets_save_as_csv.py`. The dataset can be found at the following link: [GRAG-LLM-HARD-BENCHMARK](https://huggingface.co/datasets/avemio/GRAG-LLM-HARD-BENCHMARK).
+First, download the evaluation dataset from Hugging Face using the `python download_test_sets_save_as_csv.py`. The dataset can be found at the following link: [German-RAG-LLM-HARD-BENCHMARK](https://huggingface.co/datasets/avemio/German-RAG-LLM-HARD-BENCHMARK).
 
 ### 2. Prepare Datasets
 
